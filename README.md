@@ -36,3 +36,4 @@ Displays the recommended item IDs and their preference values.
 
 # OUTPUT
 
+<img width="1059" height="172" alt="Image" src="https://github.com/user-attachments/assets/9cff0830-d328-44f5-ae29-0a4755137210" />
